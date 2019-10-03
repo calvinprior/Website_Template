@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1120 750" style="enable-background:new 0 0 1120 750;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#4623EC;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#5333ED;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+</style>
+<title>Group 2 + Group 2 + Phone Mask</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard-Copy">
+		<g>
+			<g id="Mask">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-77.8" y="-310" width="1551.6" height="1506.4">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="-77.8" y="-310" width="1551.6" height="1506.4" id="mask-2_1_">
+				<g class="st0">
+					<rect id="path-1_1_" class="st1" width="1120" height="750"/>
+				</g>
+			</mask>
+			<g id="Group-2" class="st2">
+				<g id="Gradient" transform="translate(-94.000000, -334.000000)">
+					<g>
+						<rect id="Rectangle-2" x="94" y="334" class="st3" width="1120" height="750"/>
+						<path id="Path" class="st4" d="M27.7,1018.8l197.7-197.7l0,0c21.7-21.7,56.8-21.9,78.7-0.5l264.9,258.7l0,0
+							c1.3,1.3,1.3,3.3,0.1,4.6c0,0,0,0,0,0l0,0c-35.2,35.2-59.4,43.2-72.5,24.2l0,0c-10.5-15.1-27.7-24.2-46.1-24.2
+							c-93.4,0-140.1,0-140.1,0c-76.7,7.6-168.1-7.6-244.8,0l0,0l0,0c-20.8,5.7-42.2-6.6-47.8-27.4
+							C13.9,1043.1,17.8,1028.7,27.7,1018.8z"/>
+						
+							<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="55.1504" y1="1309.4937" x2="55.2222" y2="1309.0687" gradientTransform="matrix(277.6005 -277.6005 -1275.2 -1275.2 1655243.125 1685834.375)">
+							<stop  offset="0" style="stop-color:#5333ED"/>
+							<stop  offset="0.4796" style="stop-color:#6043EE"/>
+							<stop  offset="1" style="stop-color:#4623EC"/>
+						</linearGradient>
+						<path class="st5" d="M77.8,238.8L276.2,40.4l0,0c21.9-21.9,57.3-21.9,79.2,0l468.5,468.5l727.5,727.5l0,0
+							c21.9,21.9,21.9,57.3,0,79.2L1353,1514l0,0c-21.9,21.9-57.3,21.9-79.2,0L77.8,318l0,0C55.9,296.1,55.9,260.7,77.8,238.8z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
