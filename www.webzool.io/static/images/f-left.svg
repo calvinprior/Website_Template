@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>BTN Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Home-3.1" transform="translate(-96.000000, -2988.000000)">
+            <g id="TESTIMONIALS" transform="translate(-11.018095, 2556.562500)">
+                <g id="SCROLLS" transform="translate(107.018095, 431.437500)">
+                    <g id="BTN-Copy" transform="translate(24.000000, 24.000000) scale(-1, 1) translate(-24.000000, -24.000000) ">
+                        <rect id="Rectangle" stroke="#1922FB" opacity="0.25" x="0.5" y="0.5" width="47" height="47" rx="2"></rect>
+                        <g id="flaticon1541540229-svg" transform="translate(12.000000, 16.000000)" fill="#1C00FF">
+                            <path d="M16.1613211,0.240628669 C15.8343601,-0.0802095565 15.2901874,-0.0802095565 14.9517942,0.240628669 C14.6248333,0.550627766 14.6248333,1.06657032 14.9517942,1.37584681 L21.0847888,7.19067835 L0.846744998,7.19067835 C0.374976183,7.19140096 0,7.5469244 0,7.99421913 C0,8.44151387 0.374976183,8.80859904 0.846744998,8.80859904 L21.0847888,8.80859904 L14.9517942,14.6125915 C14.6248333,14.9334297 14.6248333,15.4500948 14.9517942,15.7593713 C15.2901874,16.0802096 15.8351223,16.0802096 16.1613211,15.7593713 L23.7462051,8.56797037 C24.0845983,8.25797128 24.0845983,7.74202872 23.7462051,7.43275224 L16.1613211,0.240628669 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

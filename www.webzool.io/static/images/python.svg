@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 80 80" enable-background="new 0 0 80 80" xml:space="preserve">
+<g id="Pipelines">
+	<g id="NL_pipeline_actions" transform="translate(-918.000000, -471.000000)">
+		<g id="icons_x2F_actions_x2F_python" transform="translate(898.000000, 451.000000)">
+			<rect id="Rectangle-10-Copy-2" x="20" y="20" fill="none" width="80" height="80"/>
+			<g id="Group-2" transform="translate(20.000000, 20.000000)">
+				
+					<linearGradient id="Shape_2_" gradientUnits="userSpaceOnUse" x1="1.7685" y1="80.2382" x2="2.4353" y2="79.5766" gradientTransform="matrix(29.5911 0 0 -29.7735 -28.5684 2412.6663)">
+					<stop  offset="0" style="stop-color:#387EB8"/>
+					<stop  offset="1" style="stop-color:#366994"/>
+				</linearGradient>
+				<path id="Shape" fill="url(#Shape_2_)" d="M39.8,20c-10.1,0-9.5,4.4-9.5,4.4l0,4.6H40v1.4H26.5c0,0-6.5-0.7-6.5,9.5
+					c0,10.3,5.7,9.9,5.7,9.9h3.4V45c0,0-0.2-5.7,5.6-5.7h9.6c0,0,5.4,0.1,5.4-5.2v-8.8C49.6,25.3,50.4,20,39.8,20L39.8,20z
+					 M34.5,23.1c1,0,1.7,0.8,1.7,1.7c0,1-0.8,1.7-1.7,1.7c-1,0-1.7-0.8-1.7-1.7C32.8,23.9,33.5,23.1,34.5,23.1L34.5,23.1z"/>
+				
+					<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="1.8302" y1="80.1527" x2="2.5463" y2="79.4742" gradientTransform="matrix(29.5911 0 0 -29.7734 -18.2559 2422.7317)">
+					<stop  offset="0" style="stop-color:#FFE052"/>
+					<stop  offset="1" style="stop-color:#FFC331"/>
+				</linearGradient>
+				<path id="Shape_1_" fill="url(#Shape_3_)" d="M40.1,59.9c10.1,0,9.5-4.4,9.5-4.4l0-4.6h-9.7v-1.4h13.5c0,0,6.5,0.7,6.5-9.5
+					c0-10.3-5.7-9.9-5.7-9.9h-3.4v4.8c0,0,0.2,5.7-5.6,5.7h-9.6c0,0-5.4-0.1-5.4,5.2v8.8C30.3,54.5,29.5,59.9,40.1,59.9L40.1,59.9z
+					 M45.4,56.8c-1,0-1.7-0.8-1.7-1.7c0-1,0.8-1.7,1.7-1.7c1,0,1.7,0.8,1.7,1.7C47.2,56,46.4,56.8,45.4,56.8L45.4,56.8z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
